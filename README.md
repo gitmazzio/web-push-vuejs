@@ -1,4 +1,4 @@
-# push-web
+# web-push-vuejs
 
 This simple Vue.js application allows you to register browser subscriptions to send custom web pushes.
 

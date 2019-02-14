@@ -1,5 +1,9 @@
 # push-web
 
+This simple Vue.js application allows you to register browser subscriptions to send custom web pushes.
+
+Browser compatibility: https://developer.mozilla.org/en-US/docs/Web/API/Push_API#Browser_compatibility
+
 ## Project setup
 ```
 npm install
@@ -15,15 +19,7 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
+Useful url to customize your push:
+https://web-push-book.gauntface.com/chapter-05/03-notification-behaviour/
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://developers.google.com/web/fundamentals/push-notifications/notification-behaviour 

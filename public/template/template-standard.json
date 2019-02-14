@@ -1,0 +1,12 @@
+{
+    "title": "Ciao Paolo",
+    "options": {
+        "body": "Ci sono notizie per te!",
+        "icon": "images/icon.png",
+        "badge": "images/badge.png",
+        "image": "https://www.ilmessaggero.it/photos/MED/54/40/4135440_1329_9c1b9b08ed_5743940_med.jpg",
+        "data": {
+            "url": "https://contactlab.it"
+        }
+    }
+}
